@@ -1993,7 +1993,7 @@ footer {
         padding: 0;
         width: 100%;
         height: 50%;
-        padding-left: 80px;
+        /* padding-left: 80px; */
     }
 }
 
@@ -2123,7 +2123,7 @@ footer {
     }
 
     .image-div img {
-        border-top-left-radius: 10px;
+        border-top-left-radius: 5px;
     }
 
     .tech-stack-wrapper {
